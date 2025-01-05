@@ -1,0 +1,7 @@
+*.log
+*.csv
+*.json
+*.txt
+__pycache__/
+venv/
+node_modules/
